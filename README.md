@@ -18,4 +18,3 @@ set the IP in client.py before use.
 * shutdown: -1
 * send command: 'cmd + space' + command  
 ```cmd shutdown -s -t 100```
----
